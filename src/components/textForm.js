@@ -111,6 +111,7 @@ export default function TextForm(props) {
         className="container my-2"
         style={{
           color: props.mode === "dark" ? "white" : "black",
+          minHeight: "40vh",
         }}
       >
         <h3>Text Summary</h3>
