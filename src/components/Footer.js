@@ -6,7 +6,6 @@ const Footer = (props) => {
   return (
     <footer
       style={{
-        backgroundColor: "#f0f0f0",
         padding: "15px",
         textAlign: "center",
         bottom: "0",
