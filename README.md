@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Visit this link to view my project: https://textreact.netlify.app/ .\
+Visit this link to view my project: https://textreact.netlify.app/\
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
